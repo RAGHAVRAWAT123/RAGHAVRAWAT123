@@ -1,5 +1,6 @@
+![logo](https://github.com/RAGHAVRAWAT123/RAGHAVRAWAT123/blob/main/github-header-image%20(6).png)
 <h1 align="center">Hi 👋, I'm Raghav Rawat</h1>
-<h3 align="center">I am passionate about coding.</h3>
+<h3 align="center">I am passionate about coding and love solving problems.</h3>
 <img align="right" width=400 src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavrawat123&label=Profile%20views&color=0e75b6&style=flat" alt="raghavrawat123" /> </p>
 
